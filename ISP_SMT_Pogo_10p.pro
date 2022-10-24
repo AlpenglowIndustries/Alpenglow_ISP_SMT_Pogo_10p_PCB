@@ -1,4 +1,4 @@
-update=11/2/2021 4:09:45 PM
+update=11/3/2021 1:45:32 PM
 version=1
 last_client=kicad
 [general]
@@ -37,7 +37,7 @@ PageLayoutDescrFile=C:/Users/AlpenglowShop/Documents/Kicad/KiCAD_Templates/Alpen
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
